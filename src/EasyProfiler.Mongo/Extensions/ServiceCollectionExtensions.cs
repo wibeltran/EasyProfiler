@@ -11,6 +11,7 @@ using System.Reflection;
 
 namespace EasyProfiler.Mongo.Extensions
 {
+    
     /// <summary>
     /// This extension includes initilaze database connection model.
     /// </summary>
